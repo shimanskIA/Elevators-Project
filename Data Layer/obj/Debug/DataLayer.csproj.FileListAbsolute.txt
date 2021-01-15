@@ -1,0 +1,33 @@
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Data Layer.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Data Layer.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Data Layer\obj\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Data Layer.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\obj\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Data Layer\obj\Debug\Data Layer.pdb

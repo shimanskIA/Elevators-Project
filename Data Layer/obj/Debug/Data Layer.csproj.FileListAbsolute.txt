@@ -1,0 +1,2 @@
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\Data Layer.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache

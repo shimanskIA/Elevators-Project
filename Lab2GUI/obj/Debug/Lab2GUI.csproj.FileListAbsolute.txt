@@ -1,0 +1,47 @@
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\bin\Debug\Lab2GUI.exe.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\bin\Debug\Lab2GUI.exe
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\bin\Debug\Lab2GUI.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form1.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Properties.Resources.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.UserControl1.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.csproj.GenerateResource.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.exe
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form2.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form3.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form4.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form5.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form6.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form7.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form8.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form9.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Lab2GUI\obj\Debug\Lab2GUI.Form10.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.SimulationView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.SetRuleView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.SimulationParametersView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.ChangeSpeedView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.CreatePeopleView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.DeleteRuleView.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.Properties.Resources.resources
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.csproj.GenerateResource.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.exe
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Lab2GUI.exe.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Lab2GUI.exe
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Lab2GUI.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Data Layer.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Ninject.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Data Layer.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Data Layer.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Presentation.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\bin\Debug\Ninject.xml
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Lab2GUI\obj\Debug\Lab2GUI.csproj.CopyComplete

@@ -1,0 +1,21 @@
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\obj\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Model\obj\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\obj\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Model\obj\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\obj\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\obj\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Model\bin\Debug\Model.pdb

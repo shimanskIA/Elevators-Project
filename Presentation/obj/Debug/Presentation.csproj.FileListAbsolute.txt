@@ -1,0 +1,39 @@
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Presentation.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Ninject.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\bin\Debug\Ninject.xml
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\obj\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Presentation.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Ninject.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\bin\Debug\Ninject.xml
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\obj\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 2\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Presentation.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Model.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Ninject.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Model.pdb
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Model.dll.config
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\bin\Debug\Ninject.xml
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\obj\Debug\Presentation.dll
+C:\Users\Наташа Лапушка\Desktop\Технологии программирования\Project\Version 6\Presentation\obj\Debug\Presentation.pdb
